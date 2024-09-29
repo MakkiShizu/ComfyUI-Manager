@@ -15271,6 +15271,16 @@
             ],
             "install_type": "unzip",
             "description": "This is a node to convert an image into a CMYK Halftone dot image."
-        }
+        },
+        {
+            "author": "Makki_Shizu",
+            "title": "ComfyUI_PixelOE",
+            "reference": "https://github.com/MakkiShizu/ComfyUI_PixelOE",
+            "files": [
+                "https://github.com/MakkiShizu/ComfyUI_PixelOE/raw/main/nodes.py"
+            ],
+            "install_type": "git-clone",
+            "description": "A ComfyUI node for Pixelate image."
+        },
     ]
 }
