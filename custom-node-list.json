@@ -15281,6 +15281,6 @@
             ],
             "install_type": "git-clone",
             "description": "A ComfyUI node for Pixelate image."
-        },
+        }
     ]
 }
