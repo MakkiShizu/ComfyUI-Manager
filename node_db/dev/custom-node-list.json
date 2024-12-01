@@ -13,6 +13,191 @@
 
 
 
+
+
+        {
+            "author": "sh570655308",
+            "title": "ComfyUI-GigapixelAI [WIP]",
+            "reference": "https://github.com/sh570655308/ComfyUI-GigapixelAI",
+            "pip": ["GigapixelAI>=7.3.0"],
+            "files": [
+                "https://github.com/sh570655308/ComfyUI-GigapixelAI"
+            ],
+            "install_type": "git-clone",
+            "description": "custom nodes use gigapixelai ai in comfyui Thanks @choey for the https://github.com/choey/Comfy-Topaz nodes helps me a lot\nRequirements: Licensed installation of Gigapixel 8: the path of gigapixel.exe is in the installation folder of Topaz Gigapixel AI, manually fill it if your installation is not default. Need GigapixelAI>=7.3.0\nNOTE: The files in the repo are not organized."
+        },
+        {
+            "author": "Big Idea Technology",
+            "title": "ComfyUI-Movie-Tools [WIP]",
+            "reference": "https://github.com/Big-Idea-Technology/ComfyUI-Movie-Tools",
+            "files": [
+                "https://github.com/Big-Idea-Technology/ComfyUI-Movie-Tools"
+            ],
+            "install_type": "git-clone",
+            "description": "Movie Tools is a set of custom nodes, designed to simplify saving and loading batches of images with enhanced functionality like subfolder management and batch image handling."
+        },
+        {
+            "author": "ArthusLiang",
+            "title": "comfyui-face-remap [WIP]",
+            "reference": "https://github.com/ArthusLiang/comfyui-face-remap",
+            "files": [
+                "https://github.com/ArthusLiang/comfyui-face-remap"
+            ],
+            "install_type": "git-clone",
+            "description": "NODES: FaceRemap\nNOTE: The files in the repo are not organized."
+        },
+        {
+            "author": "trithemius",
+            "title": "ComfyUI-SmolVLM [WIP]",
+            "reference": "https://github.com/mamorett/ComfyUI-SmolVLM",
+            "files": [
+                "https://github.com/mamorett/ComfyUI-SmolVLM"
+            ],
+            "install_type": "git-clone",
+            "description": "Nodes to use SmolVLM for image tagging and captioning.\nNOTE: The files in the repo are not organized."
+        },
+        {
+            "author": "anze",
+            "title": "ComfyUI-OIDN [WIP]",
+            "reference": "https://github.com/Anze-/ComfyUI-OIDN",
+            "files": [
+                "https://github.com/Anze-/ComfyUI-OIDN"
+            ],
+            "install_type": "git-clone",
+            "description": "ComyUI wrapper for Intel OIDN image denoising\nWARNING! : this is a development repo, usage in production environments is not advised! Bugs are to be expected."
+        },
+        {
+            "author": "techzuhaib",
+            "title": "ComfyUI-CacheImageNode",
+            "reference": "https://github.com/techzuhaib/ComfyUI-CacheImageNode",
+            "files": [
+                "https://github.com/techzuhaib/ComfyUI-CacheImageNode"
+            ],
+            "install_type": "git-clone",
+            "description": "NODES: CacheImageNode"
+        },
+        {
+            "author": "hay86",
+            "title": "ComfyUI AceNodes [UNSAFE]",
+            "reference": "https://github.com/hay86/ComfyUI_AceNodes",
+            "files": [
+                "https://github.com/hay86/ComfyUI_AceNodes"
+            ],
+            "install_type": "git-clone",
+            "description": "Some useful custom nodes that are not included in ComfyUI core yet.\nNOTE: Vulnerability discovered. Not being managed."
+        },
+        {
+            "author": "dowands",
+            "title": "AddMaskForICLora",
+            "reference": "https://github.com/dowands/ComfyUI-AddMaskForICLora",
+            "files": [
+                "https://github.com/dowands/ComfyUI-AddMaskForICLora"
+            ],
+            "install_type": "git-clone",
+            "description": "NODES: Add Mask For IC Lora x"
+        },
+        {
+            "author": "zmwv823",
+            "title": "ComfyUI-Sana [WIP]",
+            "reference": "https://github.com/zmwv823/ComfyUI-Sana",
+            "files": [
+                "https://github.com/zmwv823/ComfyUI-Sana"
+            ],
+            "install_type": "git-clone",
+            "description": "Unofficial custom-node for [a/SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer](https://github.com/NVlabs/Sana)\n[w/A init node with lots of bugs, do not try unless interested.]"
+        },
+        {
+            "author": "exectails",
+            "title": "Scripting",
+            "id": "et_scripting [UNSAFE]",
+            "reference": "https://github.com/exectails/comfyui-et_scripting",
+            "files": [
+                "https://github.com/exectails/comfyui-et_scripting"
+            ],
+            "install_type": "git-clone",
+            "description": "Nodes that can be used to write Python scripts directly on a node. Useful for quick prototyping and testing, at the cost of security.[w/This extension allows the execution of arbitrary Python code from a workflow.]"
+        },
+        {
+            "author": "AIFSH",
+            "title": "UltralightDigitalHuman-ComfyUI",
+            "reference": "https://github.com/AIFSH/UltralightDigitalHuman-ComfyUI",
+            "files": [
+                "https://github.com/AIFSH/UltralightDigitalHuman-ComfyUI"
+            ],
+            "install_type": "git-clone",
+            "description": "a custom node for [a/Ultralight-Digital-Human](https://github.com/anliyuan/Ultralight-Digital-Human)\nNOTE: The files in the repo are not organized."
+        },
+        {
+            "author": "vahidzxc",
+            "title": "ComfyUI-My-Handy-Nodes",
+            "reference": "https://github.com/vahidzxc/ComfyUI-My-Handy-Nodes",
+            "files": [
+                "https://github.com/vahidzxc/ComfyUI-My-Handy-Nodes"
+            ],
+            "install_type": "git-clone",
+            "description": "NODES:VahCropImage"
+        },
+        {
+            "author": "StartHua",
+            "title": "Comfyui_Flux_Style_Ctr [WIP]",
+            "reference": "https://github.com/StartHua/Comfyui_Flux_Style_Ctr",
+            "files": [
+                "https://github.com/StartHua/Comfyui_Flux_Style_Ctr"
+            ],
+            "install_type": "git-clone",
+            "description": "NODES:CXH_StyleModelApply\nNOTE: The files in the repo are not organized."
+        },
+        {
+            "author": "miragecoa",
+            "title": "ComfyUI-LLM-Evaluation [WIP]",
+            "reference": "https://github.com/miragecoa/ComfyUI-LLM-Evaluation",
+            "files": [
+                "https://github.com/miragecoa/ComfyUI-LLM-Evaluation"
+            ],
+            "install_type": "git-clone",
+            "description": "NODES:Load File, Select Item by Index, Select Item by Key, JSONToListNode, MathOperationNode, F1ScoreNode, AccuracyNode, ..."
+        },
+        {
+            "author": "WASasquatch",
+            "title": "ASTERR [UNSAFE]",
+            "id": "asterr",
+            "reference": "https://github.com/WASasquatch/ASTERR",
+            "files": [
+                "https://github.com/WASasquatch/ASTERR"
+            ],
+            "install_type": "git-clone",
+            "description": "Abstract Syntax Trees Evaluated Restricted Run (ASTERR) is a Python Script executor for ComfyUI. [w/Warning:ASTERR runs Python Code from a Web Interface! It is highly recommended to run this in a closed-off environment, as it could have potential security risks.]"
+        },
+        {
+            "author": "BenjaMITM",
+            "title": "ComfyUI_On_The_Fly_Wildcards [WIP]",
+            "reference": "https://github.com/BenjaMITM/ComfyUI_On_The_Fly_Wildcards",
+            "files": [
+                "https://github.com/BenjaMITM/ComfyUI_On_The_Fly_Wildcards"
+            ],
+            "install_type": "git-clone",
+            "description": "NODES:Wildcard Creator, Wildcard Loader, Wildcard Selector, Display String.\nNOTE: The files in the repo are not organized."
+        },
+        {
+            "author": "celll1",
+            "title": "cel_sampler [WIP]",
+            "reference": "https://github.com/celll1/cel_sampler",
+            "files": [
+                "https://github.com/celll1/cel_sampler"
+            ],
+            "install_type": "git-clone",
+            "description": "NODES:Latent Value Tracker\nNOTE: The files in the repo are not organized."
+        },
+        {
+            "author": "DataCTE",
+            "title": "ComfyUI-DataVoid-nodes [WIP]",
+            "reference": "https://github.com/DataCTE/ComfyUI-DataVoid-nodes",
+            "files": [
+                "https://github.com/DataCTE/ComfyUI-DataVoid-nodes"
+            ],
+            "install_type": "git-clone",
+            "description": "A collection of custom nodes for ComfyUI focused on model merging and style adaptation.[w/It may cause a lot of node conflicts with comfyui_ipadapter_plus.]"
+        },
         {
             "author": "minhtuannhn",
             "title": "comfyui-gemini-studio [WIP]",
@@ -54,16 +239,6 @@
             "description": "NODES:JK Easy Prompt, JK Easy HiRes Fix"
         },
         {
-            "author": "Black-Lioness",
-            "title": "Filename Generator Node for ComfyUI [UNSAFE]",
-            "reference": "https://github.com/Black-Lioness/ComfyUI-FilenameGenerator",
-            "files": [
-                "https://github.com/Black-Lioness/ComfyUI-FilenameGenerator"
-            ],
-            "install_type": "git-clone",
-            "description": "A ComfyUI node that generates realistic filenames and file paths for various digital media formats. Perfect for creating authentic-looking file paths for your workflows.[w/Users will be able to obtain a list of files from an arbitrary path through the workflow.]"
-        },
-        {
             "author": "yorkane",
             "title": "Comfy UI Robe Nodes [UNSAFE]",
             "reference": "https://github.com/RobeSantoro/ComfyUI-RobeNodes",
@@ -71,7 +246,7 @@
                 "https://github.com/RobeSantoro/ComfyUI-RobeNodes"
             ],
             "install_type": "git-clone",
-            "description": "NODES: List Video Path Node, List Image Path Node\nThis is a collection of utility nodes for the ComfyUI stable diffusion client that provides enhanced file path handling capabilities.[w/Users will be able to access images from arbitrary paths through the workflow.] "
+            "description": "NODES: List Video Path Node, List Image Path Node\nThis is a collection of utility nodes for the ComfyUI stable diffusion client that provides enhanced file path handling capabilities.[w/Users will be able to access images from arbitrary paths through the workflow.]"
         },
         {
             "author": "Kimara.ai",
@@ -112,7 +287,7 @@
                 "https://github.com/trashgraphicard/Albedo-Sampler-for-ComfyUI"
             ],
             "install_type": "git-clone",
-            "description": "NODES:Sample Image"
+            "description": "NODES:Sample Image, Make Seamless Tile"
         },
         {
             "author": "Anze-",
@@ -424,16 +599,6 @@
             ],
             "install_type": "git-clone",
             "description": "Upscale image with model multiple times !"
-        },
-        {
-            "author": "huangyangke",
-            "title": "ComfyUI-Kolors-IpadapterFaceId [WIP]",
-            "reference": "https://github.com/huangyangke/ComfyUI-Kolors-IpadapterFaceId",
-            "files": [
-                "https://github.com/huangyangke/ComfyUI-Kolors-IpadapterFaceId"
-            ],
-            "install_type": "git-clone",
-            "description": "NODES:kolors_ipadapter_faceid\nNOTE: The files in the repo are not organized."
         },
         {
             "author": "rouxianmantou",
